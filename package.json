@@ -1,0 +1,25 @@
+{
+  "name": "normalize-name",
+  "version": "1.0.0",
+  "description": "Normalizes a variable name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuojiang/normalize-name.git"
+  },
+  "keywords": [
+    "var",
+    "variable",
+    "name",
+    "normalizer"
+  ],
+  "author": "zuojiang.wang@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuojiang/normalize-name/issues"
+  },
+  "homepage": "https://github.com/zuojiang/normalize-name#readme"
+}
